@@ -173,7 +173,7 @@ PlayerIdleHungerMultiplier=${IDLE_HUNGER:-1.0}
 PlayerOfflineHungerMultiplier=${OFFLINE_HUNGER:-1.0}
 
 # --- Death (Drop on Death) ---
-DropEquipmentOnDeath=$(echo "${DROP_EQUIPMENT_ON_DEATH:-True}")
+DropEquipmentOnDeath=True
 DropShortcutbarOnDeath=${DROP_SHORTCUTBAR_ON_DEATH:-True}
 DropBackpackOnDeath=${DROP_BACKPACK_ON_DEATH:-True}
 
